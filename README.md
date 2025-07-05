@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21.4-brightgreen)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5-brightgreen)
 ![Paper](https://img.shields.io/badge/Paper-Compatible-blue)
 ![Java](https://img.shields.io/badge/Java-21+-red)
 
